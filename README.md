@@ -1,8 +1,8 @@
 # JavaFirstProject
 
 this is a java project only for test.
-this project reads two file and insert records into DB two different tables.
-has dome validation on records, use multy threading to read CSV file.
+this project reads two file and insert records into two different database tables (uses datasource connection)\n
+It has dome validation on records, use multy threading to read CSV file.
 logs details as info or error or ... to a log file.
 puts invalid records into a json file.
 the database is MySQL.
